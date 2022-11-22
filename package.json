@@ -1,0 +1,28 @@
+{
+  "name": "deprembilgi.js",
+  "version": "1.0.0",
+  "description": "Belirttiginiz limitte depremi gösterir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zyrxus11/deprembilgi.js.git"
+  },
+  "keywords": [
+    "DepremBilgi",
+    "discord.js",
+    "Deprem",
+    "Bilgi"
+  ],
+  "author": "Zyrxus11",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zyrxus11/deprembilgi.js/issues"
+  },
+  "homepage": "https://github.com/Zyrxus11/deprembilgi.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  }
+}
