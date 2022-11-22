@@ -1,4 +1,4 @@
-const dbjs = require("../app.js") // deprembilgi.js
+const dbjs = require("deprembilgi.js")
 
 let limit = 1
 // Deprem Bilgi Al
