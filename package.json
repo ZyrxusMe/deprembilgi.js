@@ -1,6 +1,6 @@
 {
   "name": "deprembilgi.js",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Belirttiginiz limitte depremi gösterir.",
   "main": "index.js",
   "scripts": {
